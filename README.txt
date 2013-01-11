@@ -1,5 +1,8 @@
 Multiview plugin for jQuery
 
+Sample Use:
+http://facherisdesign.com/yacts.php
+
 *Description
 Multiview is a gallery plugin for jquery that uses divs instead of images for slides for more control of content.
 
