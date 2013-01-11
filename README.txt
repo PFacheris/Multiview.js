@@ -18,3 +18,5 @@ Be sure jQuery is imported.
 
 Call the plugin using:
 $('.gallery').multiview();
+
+More info coming soon!
